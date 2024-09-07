@@ -23,14 +23,3 @@ Extensive community support and a vast ecosystem of packages.
 
 Please ensure that there are all the files and modules installed in your working directory for proper functioning of the application.
 
-## Landing Page of our Application
-![url1](https://github.com/Dartpixel/URL-Shortener/assets/89685890/88b51646-84ab-4c68-9c7d-9a689211f9c2)
-
-## Long URL will be inserted here
-![url2](https://github.com/Dartpixel/URL-Shortener/assets/89685890/25f8f6e8-c572-49df-9a79-85f03870c6ce)
-
-## Short URL will be given as output here
-![url3](https://github.com/Dartpixel/URL-Shortener/assets/89685890/dba68413-58fb-4231-a5e2-e2f8f39a0673)
-
-Hope you like it ;)!
-
